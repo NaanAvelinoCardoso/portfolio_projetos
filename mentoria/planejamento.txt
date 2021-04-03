@@ -1,0 +1,54 @@
+*LISTA DO QUE VAI TER NO SITE*
+
+- um container para manter um padrao de centralização
+
+- um header sem menu, so com a logo centralizada
+
+- no main teremos um h1 com um texto "LUCRE DE 1K A 10K AO MÊS, OPERANDO DE FORMA AUTOMATICA." e um video
+de tamanho quadrado e com bordas radius e tambem com um box-shadow de fundo desse video pode ser um orange
+
+- no main ainda abaixo do video teremos um sub titulo com alguma frase ex: "Assista o vídeo e veja como
+você vai chegar a esses resultados" e logo abaixo dessa frase teremos um btn padrao do site todo com o nome
+"QUERO TER ACESSO"
+
+- logo em seguida teremos um section(1 sessao) que tera um Titulo explicando o metodo da iq option
+
+- uma tag p para explicar sobre esse metodo
+
+- logo abaixo outro section(2 sessao) tera um titulo para explicar oq vc ira aprender!
+
+- logo abaixo desse titulo vc tera uns campos com icones e titulos do que vc ira aprender!
+
+- logo abaixo outro section(3 sessao) que tera um titulo explicando pq esse metodo é diferente e dps
+teremos 3 icones com titulo e sub titulo de oq sao essas diferenças
+
+- logo abaixo aquele botao padrao do site todo dnv 
+
+- logo abaixo teremos outra secion(4 sessao) que tera um titulo "Depoimentos" e um sub titulo "Veja o Resultado da galera"
+
+- logo abaixo teremos 3 img uma do lado da outra caso tenha videos fica em baixo das imgs ocupando 
+seu devido espaço
+
+- logo abaixo teremos outra section(5 sessao) uma div com um titulo "OFERTA DE LANCAMENTO" em baixo
+teremos um h2 com "CHEGOU A GRANDE HORA" abaixo desse h2 tera um sub titulo "Nosso curso é o mais completo do mercado, aqui você começa de forma certa!"
+abaixo teremos um texto com "Acesso imediato de R$valor por apenas" so que o valor ficara riscado caso for
+desconto e logo abaixo mostrar o parcelamento de 12x e o valor parcelado em 12 vezes logo abaixo o btn padrao
+de sempre e abaixo do botao teremos 3 icons com os textos "Compra segura", "Satisfação Garantida", "Privacidade Protegida"
+
+- logo abaixo dessa section "sessao 5 oferta" q seria como um banner de venda teremos uma img escrito "7 dias garantia"
+e logo abaixo da img teremos um titulo padrao e um sub titulo padrao
+
+- logo abaixo teremos outra section(sessao 6) teremos um perfil do trader com uma foto dele a direita
+e um texto com um titulo padrao falando "Quem é $nome" e logo abaixo do titulo um texto sobre ele
+
+- logo abaixo dessa ultima section teremos um footer bem simples conforme no layout 
+
+
+
+
+
+*CORES PADRAO*
+
+- background color dos btn sao #DC143C e vai ter um degrade com o texto preto
+- color do box-shadow do video e do banner oferta #ff7800
+- color dos icones #fa3d14
