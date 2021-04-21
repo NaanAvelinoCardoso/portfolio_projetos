@@ -154,6 +154,9 @@ p {
     color: #c42a08;
     font-size: 80px;
 }
+.headline_sectiondois strong {
+    text-shadow: 0px 0px 33px #DC143C;
+}
 #sectiontres,#sectionquatro h4{
     color: var(--text-color-white);
     margin-bottom: 0px;
